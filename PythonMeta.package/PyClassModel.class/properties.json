@@ -1,0 +1,19 @@
+{
+	"category" : "PythonMeta-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"superclassNames",
+		"file",
+		"methods",
+		"superclasses",
+		"subclasses" ],
+	"name" : "PyClassModel",
+	"pools" : [
+		 ],
+	"super" : "PyEntityModel",
+	"type" : "normal" }

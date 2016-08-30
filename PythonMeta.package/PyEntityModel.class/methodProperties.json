@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"fromASTNode:" : "SergioMaass 6/29/2016 04:24" },
+	"instance" : {
+		"acceptVisitor:" : "SergioMaass 6/29/2016 13:04",
+		"astNode" : "SergioMaass 6/29/2016 04:31",
+		"astNode:" : "SergioMaass 6/29/2016 04:28",
+		"linesOfCode" : "SergioMaass 8/29/2016 21:04",
+		"populateModel" : "SergioMaass 6/29/2016 04:27",
+		"source" : "SergioMaass 8/29/2016 21:21",
+		"sourceEndLine" : "SergioMaass 8/29/2016 20:59",
+		"sourceFileContents" : "SergioMaass 8/29/2016 20:59",
+		"sourceFilename" : "SergioMaass 8/30/2016 00:14",
+		"sourceStartLine" : "SergioMaass 8/29/2016 20:58",
+		"sourceStartPosition" : "SergioMaass 8/29/2016 20:43",
+		"sourceStopPosition" : "SergioMaass 8/29/2016 20:43" } }

@@ -1,0 +1,17 @@
+{
+	"category" : "PythonMeta-MSE",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pyModel",
+		"id",
+		"isStub",
+		"sourceAnchor" ],
+	"name" : "MSEExportNode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

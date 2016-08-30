@@ -1,0 +1,16 @@
+{
+	"category" : "PythonMeta-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"parameters",
+		"decorators" ],
+	"name" : "PyBehaviouralEntityModel",
+	"pools" : [
+		 ],
+	"super" : "PyEntityModel",
+	"type" : "normal" }

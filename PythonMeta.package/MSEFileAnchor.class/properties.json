@@ -1,0 +1,16 @@
+{
+	"category" : "PythonMeta-MSE",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"filename",
+		"startLine",
+		"endLine" ],
+	"name" : "MSEFileAnchor",
+	"pools" : [
+		 ],
+	"super" : "MSEExportNode",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+source
+sourceFilename
+	^ self filename

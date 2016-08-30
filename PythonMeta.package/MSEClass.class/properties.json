@@ -1,0 +1,14 @@
+{
+	"category" : "PythonMeta-MSE",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"container" ],
+	"name" : "MSEClass",
+	"pools" : [
+		 ],
+	"super" : "MSEExportNode",
+	"type" : "normal" }

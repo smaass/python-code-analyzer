@@ -1,0 +1,17 @@
+{
+	"category" : "PythonMeta-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"files",
+		"classesByASTNode",
+		"classesByName",
+		"classStubsByName" ],
+	"name" : "PyMetaModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

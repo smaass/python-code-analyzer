@@ -1,0 +1,14 @@
+{
+	"category" : "PythonMeta-Model-Generator",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"astNode" ],
+	"name" : "PyModelGeneratorVisitor",
+	"pools" : [
+		 ],
+	"super" : "PyRootNodeVisitor",
+	"type" : "normal" }

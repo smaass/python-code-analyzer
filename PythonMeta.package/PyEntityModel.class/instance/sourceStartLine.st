@@ -1,0 +1,3 @@
+source
+sourceStartLine
+	^ self sourceFileContents lineNumberCorrespondingToIndex: self sourceStartPosition

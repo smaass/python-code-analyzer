@@ -1,0 +1,21 @@
+{
+	"category" : "PythonMeta-MSE",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"currentId",
+		"files",
+		"functions",
+		"classes",
+		"methods",
+		"exportStream",
+		"inheritanceNodes",
+		"sourceAnchors" ],
+	"name" : "MSEExportVisitor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

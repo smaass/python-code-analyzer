@@ -1,0 +1,16 @@
+{
+	"category" : "PythonMeta-MSE",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"superclassModel",
+		"subclassModel",
+		"exporter" ],
+	"name" : "MSEInheritance",
+	"pools" : [
+		 ],
+	"super" : "MSEExportNode",
+	"type" : "normal" }

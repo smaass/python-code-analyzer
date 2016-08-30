@@ -1,0 +1,14 @@
+{
+	"category" : "PythonMeta-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"astNode" ],
+	"name" : "PyEntityModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

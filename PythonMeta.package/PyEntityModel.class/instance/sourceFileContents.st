@@ -1,0 +1,3 @@
+source
+sourceFileContents
+	^ self subclassResponsibility

@@ -1,0 +1,14 @@
+{
+	"category" : "PythonMeta-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name" ],
+	"name" : "PyEntityStub",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

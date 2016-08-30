@@ -1,0 +1,17 @@
+{
+	"category" : "PythonMeta-Model-Generator",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"metaModel",
+		"filepath",
+		"fileModel",
+		"fileContents" ],
+	"name" : "PyFileModelGenerator",
+	"pools" : [
+		 ],
+	"super" : "PyModelGeneratorVisitor",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "PythonMeta-Model-Generator",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"classModel" ],
+	"name" : "PyClassModelGenerator",
+	"pools" : [
+		 ],
+	"super" : "PyModelGeneratorVisitor",
+	"type" : "normal" }
