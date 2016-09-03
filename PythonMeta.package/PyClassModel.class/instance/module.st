@@ -1,3 +1,3 @@
 accessing
 module
-	^ file
+	^ file ifNil: [ self container module ]

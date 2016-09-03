@@ -1,7 +1,19 @@
 model creation
 visitClassdef: classDefNode
 
-	self assert: classModel isNil.
-	classModel := PyClassModel fromASTNode: classDefNode.
-	super visitClassdef: classDefNode.
-	^ classModel
+	classModel
+		ifNil: [
+			classModel := PyClassModel fromASTNode: classDefNode.
+			super visitClassdef: classDefNode.
+			^ classModel
+		]
+		ifNotNil: [
+			|innerClassModel|
+			innerClassModel := PyClassModelGenerator new
+				astNode: classDefNode;
+				metaModel: self metaModel;
+				generate.
+			classModel addInnerClass: innerClassModel.
+			self metaModel addClass: innerClassModel.
+			^ innerClassModel
+		].

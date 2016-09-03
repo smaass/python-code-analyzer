@@ -1,3 +1,3 @@
 accessing
-container: anMSENamespaceNode
-	container := anMSENamespaceNode
+container: anMSENamespaceOrClassNode
+	container := anMSENamespaceOrClassNode

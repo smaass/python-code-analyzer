@@ -11,7 +11,9 @@
 		"file",
 		"methods",
 		"superclasses",
-		"subclasses" ],
+		"subclasses",
+		"container",
+		"innerClasses" ],
 	"name" : "PyClassModel",
 	"pools" : [
 		 ],

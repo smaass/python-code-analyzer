@@ -2,7 +2,9 @@ visitor
 visitClassModel: aPyClassModel
 	|exportClassNode containerNode|
 	
-	containerNode := files at: aPyClassModel module.
+	containerNode := aPyClassModel container isPyModule
+		ifTrue: [ files at: aPyClassModel container ]
+		ifFalse: [ classes at: aPyClassModel container ].
 	
 	exportClassNode := MSEClass new
 		pyModel: aPyClassModel
@@ -15,4 +17,8 @@ visitClassModel: aPyClassModel
 	
 	aPyClassModel superclasses do: [ :superclass |
 		self linkSubclass: aPyClassModel toSuperclass: superclass
+	].
+
+	aPyClassModel innerClasses do: [ :innerClass |
+		innerClass acceptVisitor: self
 	]

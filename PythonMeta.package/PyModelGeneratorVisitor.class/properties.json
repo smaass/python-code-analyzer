@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"astNode" ],
+		"astNode",
+		"metaModel" ],
 	"name" : "PyModelGeneratorVisitor",
 	"pools" : [
 		 ],
