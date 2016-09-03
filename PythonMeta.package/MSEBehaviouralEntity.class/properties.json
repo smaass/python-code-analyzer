@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"module" ],
-	"name" : "MSEFunction",
+		 ],
+	"name" : "MSEBehaviouralEntity",
 	"pools" : [
 		 ],
-	"super" : "MSEBehaviouralEntity",
+	"super" : "MSEExportNode",
 	"type" : "normal" }

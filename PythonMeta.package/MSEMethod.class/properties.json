@@ -10,5 +10,5 @@
 	"name" : "MSEMethod",
 	"pools" : [
 		 ],
-	"super" : "MSEExportNode",
+	"super" : "MSEBehaviouralEntity",
 	"type" : "normal" }

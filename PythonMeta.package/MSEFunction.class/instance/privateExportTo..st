@@ -1,4 +1,4 @@
 exporting
 privateExportTo: aStream
-	self exportName: aStream.
+	super privateExportTo: aStream.
 	self exportParentModule: aStream

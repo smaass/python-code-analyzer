@@ -1,5 +1,4 @@
 exporting
 privateExportTo: aStream
-	self exportName: aStream.
+	super privateExportTo: aStream.
 	self exportParentType: aStream.
-	self exportNumberOfLinesOfCode: aStream
