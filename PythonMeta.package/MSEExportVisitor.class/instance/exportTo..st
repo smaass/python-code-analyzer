@@ -1,7 +1,7 @@
 export
-exportTo: filename
+exportTo: stream
 
-	exportStream := FileStream newFileNamed: filename.
+	exportStream := stream.
 	exportStream
 		nextPut: $(;
 		nextPut: Character cr.
