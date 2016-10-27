@@ -1,4 +1,4 @@
-*PythonMeta
+*PythonMeta-Visualization
 viewMultipleInheritance
 	<menuItem: 'Multiple inheritance graph' category: 'Visualize'>
 	| view |

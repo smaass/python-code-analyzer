@@ -1,4 +1,4 @@
-*PythonMeta
+*PythonMeta-Visualization
 mooseFinderMultipleInheritanceIn: composite
 	<moosePresentationOrder: 20>
 	composite roassal2
