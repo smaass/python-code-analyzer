@@ -1,0 +1,4 @@
+populating
+markWithClassScope
+
+	classScope := true.

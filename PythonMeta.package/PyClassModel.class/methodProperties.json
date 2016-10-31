@@ -2,7 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"acceptVisitor:" : "SergioMaass 6/29/2016 13:13",
+		"acceptVisitor:" : "SergioMaass 10/31/2016 11:26",
+		"addAttribute:" : "SergioMaass 10/31/2016 12:50",
 		"addInnerClass:" : "SergioMaass 9/3/2016 00:38",
 		"addMethod:" : "SergioMaass 8/20/2016 23:34",
 		"addSubclass:" : "SergioMaass 8/21/2016 22:16",
@@ -10,7 +11,7 @@
 		"connectInMetamodel:" : "SergioMaass 8/21/2016 22:14",
 		"container" : "SergioMaass 9/2/2016 23:23",
 		"container:" : "SergioMaass 9/2/2016 23:23",
-		"initialize" : "SergioMaass 9/2/2016 23:18",
+		"initialize" : "SergioMaass 10/31/2016 12:49",
 		"innerClasses" : "SergioMaass 9/3/2016 00:00",
 		"isInner" : "SergioMaass 9/1/2016 11:14",
 		"isPyClass" : "SergioMaass 9/1/2016 11:15",

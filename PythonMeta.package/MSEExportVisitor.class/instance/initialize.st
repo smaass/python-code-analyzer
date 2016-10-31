@@ -5,6 +5,7 @@ initialize
 	functions := Dictionary new.
 	classes := Dictionary new.
 	methods := Dictionary new.
+	attributes := Dictionary new.
 	inheritanceNodes := OrderedCollection new.
 	sourceAnchors := OrderedCollection new.
 	exportStream := nil.

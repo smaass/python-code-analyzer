@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptVisitor:" : "SergioMaass 10/31/2016 11:27",
+		"hasClassScope" : "SergioMaass 10/30/2016 20:53",
+		"initialize" : "SergioMaass 10/30/2016 20:53",
+		"markWithClassScope" : "SergioMaass 10/30/2016 20:53",
+		"name" : "SergioMaass 10/30/2016 19:13",
+		"name:" : "SergioMaass 10/30/2016 19:13",
+		"parentClass" : "SergioMaass 10/30/2016 19:08",
+		"parentClass:" : "SergioMaass 10/30/2016 19:08",
+		"populateModel" : "SergioMaass 10/30/2016 19:17" } }

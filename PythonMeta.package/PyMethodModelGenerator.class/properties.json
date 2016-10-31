@@ -1,0 +1,15 @@
+{
+	"category" : "PythonMeta-Model-Generator",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"methodModel",
+		"parentClass" ],
+	"name" : "PyMethodModelGenerator",
+	"pools" : [
+		 ],
+	"super" : "PyModelGeneratorVisitor",
+	"type" : "normal" }

@@ -13,7 +13,8 @@
 		"methods",
 		"exportStream",
 		"inheritanceNodes",
-		"sourceAnchors" ],
+		"sourceAnchors",
+		"attributes" ],
 	"name" : "MSEExportVisitor",
 	"pools" : [
 		 ],

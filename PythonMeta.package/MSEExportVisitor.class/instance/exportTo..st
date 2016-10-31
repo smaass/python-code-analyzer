@@ -11,6 +11,7 @@ exportTo: stream
 	classes do: [ :class | class exportTo: exportStream ].
 	inheritanceNodes do: [ :inheritance | inheritance exportTo: exportStream ].
 	methods do: [ :method | method exportTo: exportStream ].
+	attributes do: [ :attribute | attribute exportTo: exportStream ].
 	sourceAnchors do: [ :source | source exportTo: exportStream ].
 
 	MSESourceLanguage new
